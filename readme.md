@@ -3,13 +3,13 @@
 manages an ipfs node and automatically pins NFTs owned or minted by the user
 
 **to do:**
-[ ] add wallet entry ui and store in config
-[ ] fetch minted/collected nfts based on wallet entries
-[ ] add tray menu to show wallet entries
-[ ] add tray menu to pin/unpin wallet entries
-[ ] add tray menu to show pinned entries
-[ ] add tray menu to open ipfs webui
-[ ] move away from exec.Command and use go-ipfs-api
+- [ ] add wallet entry ui and store in config
+- [ ] fetch minted/collected nfts based on wallet entries
+- [ ] add tray menu to show wallet entries
+- [ ] add tray menu to pin/unpin wallet entries
+- [ ] add tray menu to show pinned entries
+- [ ] add tray menu to open ipfs webui
+- [ ] move away from exec.Command and use go-ipfs-api
 
 
 ---
