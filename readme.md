@@ -2,6 +2,19 @@
 
 manages an ipfs node and automatically pins NFTs owned or minted by the user
 
+### dev
+
+build and run the app
+```bash
+go run main.go
+```
+
+build the app
+```bash
+go build
+```
+
+
 **to do:**
 - [ ] add wallet entry ui and store in config
 - [ ] fetch minted/collected nfts based on wallet entries
