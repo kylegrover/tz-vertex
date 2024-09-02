@@ -25,6 +25,14 @@ go build
 - [ ] move away from exec.Command and use go-ipfs-api
 
 
+
+reference:
+https://gist.github.com/mattdesl/47f4ea12ea131eed8401bdacf95a1f47
+https://nftbiker.xyz/
+https://hashquine.github.io/hicetnunc/artists-by-income-3/index.html
+https://github.com/hicetnunc2000/hicetnunc/wiki/Tools-made-by-the-community
+
+
 ---
 
 #### *ai generated overview and todos:*
