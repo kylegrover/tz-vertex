@@ -32,6 +32,7 @@ https://nftbiker.xyz/
 https://hashquine.github.io/hicetnunc/artists-by-income-3/index.html
 https://github.com/hicetnunc2000/hicetnunc/wiki/Tools-made-by-the-community
 
+https://github.com/zir0h/teia-backup - backup tool specifically for teia
 
 ---
 
